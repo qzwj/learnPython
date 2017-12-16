@@ -1,0 +1,1 @@
+{"name": "lwj", "age": 24, "score": 60}
